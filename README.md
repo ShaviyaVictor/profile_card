@@ -1,7 +1,7 @@
 # profile_card
 This is a Tailwind Profile Card. Made using HTML &amp; Tailwind.
            
-<img src="https://github.com/ShaviyaVictor/profile_card/blob/main/assets/images/profile_cardScreenshot.png" width="400" height="600">             
+<img src="https://github.com/ShaviyaVictor/profile_card/blob/main/assets/images/profile_cardScreenshot.png" width="350" height="450">             
 
 ## Built With
 
